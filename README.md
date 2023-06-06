@@ -5,4 +5,6 @@
 * box2_uname.txt
 * jetpackversion.txt
 * nvcc.txt
+
+
 上から説明するとPCのハードウェア情報とカーネルのバージョンとジェットパックのバージョンとCUDAのバージョンについて記述した．
